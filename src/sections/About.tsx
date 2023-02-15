@@ -1,4 +1,7 @@
 import React from 'react';
+import { Skill } from '../types/Skill';
+import SkillCard from '../components/SkillCard';
+import Skills from '../Skills.json';
 
 function About() {
   return (
@@ -21,7 +24,11 @@ function About() {
         </div>
         <div className="p-8">
           <h2 className="md:text-4xl text-xl font-bold">Skills</h2>
-          <div></div>
+          <div className="grid grid-cols-4">
+            {Skills.skills.map((skill) => (
+              <SkillCard skill={skill} />
+            ))}
+          </div>
         </div>
       </div>
     </div>

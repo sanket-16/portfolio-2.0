@@ -1,0 +1,94 @@
+{
+  "skills": [
+    {
+      "id": 1,
+      "name": "HTML",
+      "icon": "<AiFillHtml5/>",
+      "category": ""
+    },
+    {
+      "id": 2,
+      "name": "CSS",
+      "icon": "",
+      "category": ""
+    },
+    {
+      "id": 3,
+      "name": "Javascript",
+      "icon": "",
+      "category": ""
+    },
+    {
+      "id": 4,
+      "name": "Typescript",
+      "icon": "",
+      "category": ""
+    },
+    {
+      "id": 5,
+      "name": "Python",
+      "icon": "",
+      "category": ""
+    },
+    {
+      "id": 6,
+      "name": "Dart",
+      "icon": "",
+      "category": ""
+    },
+    {
+      "id": 7,
+      "name": "React",
+      "icon": "",
+      "category": ""
+    },
+    {
+      "id": 8,
+      "name": "Express",
+      "icon": "",
+      "category": ""
+    },
+    {
+      "id": 9,
+      "name": "Django",
+      "icon": "",
+      "category": ""
+    },
+    {
+      "id": 10,
+      "name": "Flutter",
+      "icon": "",
+      "category": ""
+    },
+    {
+      "id": 11,
+      "name": "TailwindCSS",
+      "icon": "",
+      "category": ""
+    },
+    {
+      "id": 12,
+      "name": "MongoDB",
+      "icon": "",
+      "category": ""
+    },
+    {
+      "id": 13,
+      "name": "PostGreSQL",
+      "icon": "",
+      "category": ""
+    },
+    {
+      "id": 14,
+      "name": "Git",
+      "icon": "",
+      "category": ""
+    },
+    {
+      "id": 15,
+      "name": "Vercel",
+      "icon": "",
+      "category": ""
+    }
+  ]
+}
