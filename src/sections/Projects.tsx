@@ -1,6 +1,6 @@
 import React from 'react';
 
-function Contact() {
+function Projects() {
   return (
     <div className="min-h-[90vh]">
       <div className="bg-white text-dark-blue py-8 flex justify-center font-Montserrat">
@@ -8,11 +8,11 @@ function Contact() {
           className="md:text-6xl text-2xl font-bold tracking-widest"
           id="about"
         >
-          Contact Me
+          {`< Projects />`}
         </h1>
       </div>
     </div>
   );
 }
 
-export default Contact;
+export default Projects;

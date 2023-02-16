@@ -1,12 +1,11 @@
 import Navbar from './components/Navbar';
-import About from './sections/About';
-import Hero from './sections/Hero';
+import Section from './Section';
+
 function App() {
   return (
-    <div className="min-h-screen text-white">
+    <div className="h-screen w-screen text-white scroll-smooth overflow-auto ">
       <Navbar />
-      <Hero />
-      <About />
+      <Section />
     </div>
   );
 }

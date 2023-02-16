@@ -2,7 +2,7 @@ import React from 'react';
 
 function Hero() {
   return (
-    <div className=" md:bg-hero-img bg-no-repeat bg-left-bottom md:bg-60% bg-80% h-[90vh] md:m-0 my-20 mx-2 md:grid md:grid-cols-2 items-center justify-center">
+    <div className="md:bg-hero-img bg-no-repeat bg-left-bottom md:bg-60% h-[90vh] md:m-0  mx-2 md:grid md:grid-cols-2 flex items-center justify-center">
       <div></div>
       <h1 className="font-bold flex flex-col">
         <span className="font-Montserrat md:text-8xl text-6xl">
